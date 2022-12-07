@@ -1,6 +1,6 @@
 # AzuraCastMods
 
-#Add a custom button to public page:
+### Add a custom button to public page:
 ```
 url = window.location.pathname;
 if(url == '/public/test_station'){
@@ -12,7 +12,7 @@ if(url == '/public/test_station'){
 };
 ```
 
-#Hide a button 2nd button:
+### Hide a button 2nd button:
 ```
 url = window.location.pathname;
 if(url == '/public/test_station'){
