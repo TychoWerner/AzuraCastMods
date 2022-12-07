@@ -1,4 +1,6 @@
 # AzuraCastMods
+If you found these helpful and wish to support this, you can do a donation to this non-profit radio station <3
+[![CeltCast](https://www.celtcast.com/img/logo.jpg)](https://celtcast.com/donate/)
 
 ### Add a custom button to public page:
 ```
