@@ -39,6 +39,12 @@ if(url == '/public/test_station'){
 
 ### Modifications to the Azuracast Embed Player Widget (CSS)
 
+#### Known issues
+
+The volume slider is not visible on Chromium based browsers (visible on Firefox), see https://github.com/AzuraCast/AzuraCast/issues/5537. The volume slider's appearance cannot be modified (?) either.
+
+#### CSS examples
+
 Replace the color hex values and font weight/size with what you need. Below #FF0000 (red) is used everywhere.
 ```
 /*song title color */
