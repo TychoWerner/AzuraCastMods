@@ -10,6 +10,10 @@ Not all mods with be compatible with all browsers, versions of AzuraCast or othe
 
 Keep in mind that pasting in these codes should always be done with a matter of caution. It could have malicious intentions, if you found any please let it be known!
 
+Also check out: https://docs.azuracast.com/en/administration/customization
+
+![Powered by AzuraCast](https://i.imgur.com/JYvGQuM.png)
+
 
 ### Add a custom button to public page (JS)
 ```
