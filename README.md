@@ -33,7 +33,7 @@ Replace the color hex values and font weight/size with what you need. Below #FF0
 
 /* artist name*/
 [data-theme] body.embed .now-playing-artist {
-    color: #3282B4;
+    color: #FF0000;
   font-weight: bold; 
   font-size: 1.1em;
 }
