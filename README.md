@@ -8,14 +8,7 @@ https://github.com/TychoWerner/AzuraCastMods/tree/main/Applying%20these%20mods
 https://github.com/TychoWerner/AzuraCastMods/tree/main/Add%20a%20custom%20button%20to%20public%20page
 
 ### Hide a button 2nd button (JS)
-```
-url = window.location.pathname;
-if(url == '/public/test_station'){
-  window.addEventListener('load', function () {
-  document.querySelector("body > div:nth-child(25) > div > div > div.card-actions > a:nth-child(2)").hidden = true;
-  })
-};
-```
+https://github.com/TychoWerner/AzuraCastMods/tree/main/Hide%20a%20button%202nd%20button
 
 ### Modifications to the Azuracast Embed Player Widget (CSS)
 
